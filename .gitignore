@@ -1,0 +1,18 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# Mac OS X folder management files
+.DS_Store
+
+# Linux temporary files
+*~
+
+# rspec failure tracking
+.rspec_status

@@ -1,0 +1,6 @@
+require "apimock/version"
+
+module Apimock
+  # Your code goes here...
+end
+
